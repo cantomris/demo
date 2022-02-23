@@ -1,14 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "status": {
+    "success": true,
+    "request_id": "ea61d092-85a4-4aa6-b5cf-286f07d227a1",
+    "messages": {
+      "id": "191",
+      "code": "opXjNykgkGrb3LRWDLcvNfmQqQW4DvqT13gR6YttVQWHyw7gkHv",
+      "message": "vel pede",
+      "message_type": 1
+    }
+  },
 }
