@@ -1,1 +1,149 @@
-{"hotel_list_cache_models":{"id":1926,"priority":33,"is_single_bay":true,"category_slider_path":"http://dummyimage.com/156x152.png/5fa2dd/ffffff","not_discounted_price":"","hotel_category_ids":[117,33],"hotel_property_prominents":[{"hotel_id":2110,"icon":"http://dummyimage.com/184x153.png/dddddd/000000"},{"hotel_id":2110,"icon":"http://dummyimage.com/136x107.png/ff4444/ffffff"},{"hotel_id":2110,"icon":"http://dummyimage.com/106x171.png/5fa2dd/ffffff"},{"hotel_id":2110,"icon":"http://dummyimage.com/246x168.png/dddddd/000000"}],"description":"nam tristique tortor","css_class_name":"ullamcorper","description_detail":null,"hotel_property_prominent_id":80,"hotel_open_date":"error: Field 'null' not found","hotel_close_date":"error: Field 'null' not found","is_hotel_open_in_year":true,"hotel_open_text":"12 Ay Acik","child_info":"Ücretsiz çocuk yaşları dönemsel değişkenlik gösterebilmektedir.","child_age1_min":0,"child_age1_max":6,"child_age2_min":0,"child_age2_max":6,"discount_rate":0.0,"price_in_tl":0.0,"is_contract":true,"hotel_id":2110,"product_id":7307,"name":"eu nibh quisque","link":"ihg.com/pellentesque/quisque/porta/volutpat/erat/quisque/erat.xml","image_url":"http://dummyimage.com/201x136.png/dddddd/000000","alt":"quis orci","title":"ligula vehicula consequat","marketing_id":1,"is_adult_hotel":true,"channel_id":2,"price_date":"error: Field 'null' not found","is_recommended":true,"hotel_location":"54 Sundown Place","hotel_location_id":10214,"latitude":22.937244,"longitude":113.384129,"concept_name":"sit","concep_type_id":37,"price_group_id":3,"minimum_accepted_age":"error: Field 'null' not found","is_villa":true,"hotel_campaigns":"error: no implicit conversion of Range into Integer","hotel_valid_campaigns":"error: Field 'null' not found","sale_campaigns":"error: Field 'null' not found","insurances":"error: Field 'null' not found","product_activities":[],"has_eb_insurance":false,"teg_soft_campaign_id":"error: Field 'null' not found"}},
+[{
+  "hotel_list_cache_models": {
+    "id": 1734,
+    "priority": 113,
+    "is_single_bay": false,
+    "category_slider_path": "http://dummyimage.com/104x127.png/cc0000/ffffff",
+    "not_discounted_price": "",
+    "hotel_category_ids": [
+      149,
+      18
+    ],
+    "hotel_property_prominents": [
+      {
+        "hotel_id": 2110,
+        "icon": "http://dummyimage.com/167x216.png/5fa2dd/ffffff"
+      },
+      {
+        "hotel_id": 2110,
+        "icon": "http://dummyimage.com/100x126.png/ff4444/ffffff"
+      }
+    ],
+    "description": "volutpat eleifend",
+    "css_class_name": "nisi",
+    "description_detail": null,
+    "hotel_property_prominent_id": 92,
+    "hotel_open_date": "error: Field 'null' not found",
+    "hotel_close_date": "error: Field 'null' not found",
+    "is_hotel_open_in_year": false,
+    "hotel_open_text": "12 Ay Acik",
+    "child_info": "Ücretsiz çocuk yaşları dönemsel değişkenlik gösterebilmektedir.",
+    "child_age1_min": 0,
+    "child_age1_max": 6,
+    "child_age2_min": 0,
+    "child_age2_max": 6,
+    "discount_rate": 0.0,
+    "price_in_tl": 0.0,
+    "is_contract": true,
+    "hotel_id": 2110,
+    "product_id": 7307,
+    "name": "nulla quisque",
+    "link": "baidu.com/eget/congue/eget.jpg",
+    "image_url": "http://dummyimage.com/219x187.png/dddddd/000000",
+    "alt": "morbi vestibulum",
+    "title": "consequat ut nulla",
+    "marketing_id": 1,
+    "is_adult_hotel": true,
+    "channel_id": 2,
+    "price_date": "error: Field 'null' not found",
+    "is_recommended": true,
+    "hotel_location": "043 Quincy Pass",
+    "hotel_location_id": 19693,
+    "latitude": 14.1175166,
+    "longitude": 105.8547173,
+    "concept_name": "mi nulla",
+    "concep_type_id": 37,
+    "price_group_id": 8,
+    "minimum_accepted_age": "error: Field 'null' not found",
+    "is_villa": true,
+    "hotel_campaigns": "error: no implicit conversion of Range into Integer",
+    "hotel_valid_campaigns": "error: Field 'null' not found",
+    "sale_campaigns": "error: Field 'null' not found",
+    "insurances": "error: Field 'null' not found",
+    "product_activities": [
+
+    ],
+    "has_eb_insurance": false,
+    "teg_soft_campaign_id": "error: Field 'null' not found"
+  }
+}, {
+  "hotel_list_cache_models": {
+    "id": 1394,
+    "priority": 48,
+    "is_single_bay": false,
+    "category_slider_path": "http://dummyimage.com/216x127.png/cc0000/ffffff",
+    "not_discounted_price": "",
+    "hotel_category_ids": [
+      74,
+      14
+    ],
+    "hotel_property_prominents": [
+      {
+        "hotel_id": 2110,
+        "icon": "http://dummyimage.com/123x189.png/ff4444/ffffff"
+      },
+      {
+        "hotel_id": 2110,
+        "icon": "http://dummyimage.com/143x197.png/cc0000/ffffff"
+      },
+      {
+        "hotel_id": 2110,
+        "icon": "http://dummyimage.com/106x101.png/ff4444/ffffff"
+      },
+      {
+        "hotel_id": 2110,
+        "icon": "http://dummyimage.com/130x125.png/dddddd/000000"
+      },
+      {
+        "hotel_id": 2110,
+        "icon": "http://dummyimage.com/177x166.png/ff4444/ffffff"
+      }
+    ],
+    "description": "pharetra magna",
+    "css_class_name": "pellentesque",
+    "description_detail": null,
+    "hotel_property_prominent_id": 84,
+    "hotel_open_date": "error: Field 'null' not found",
+    "hotel_close_date": "error: Field 'null' not found",
+    "is_hotel_open_in_year": true,
+    "hotel_open_text": "12 Ay Acik",
+    "child_info": "Ücretsiz çocuk yaşları dönemsel değişkenlik gösterebilmektedir.",
+    "child_age1_min": 0,
+    "child_age1_max": 6,
+    "child_age2_min": 0,
+    "child_age2_max": 6,
+    "discount_rate": 0.0,
+    "price_in_tl": 0.0,
+    "is_contract": false,
+    "hotel_id": 2110,
+    "product_id": 7307,
+    "name": "volutpat sapien",
+    "link": "blogspot.com/eros/elementum/pellentesque/quisque.json",
+    "image_url": "http://dummyimage.com/125x216.png/cc0000/ffffff",
+    "alt": "pulvinar lobortis",
+    "title": "eget",
+    "marketing_id": 1,
+    "is_adult_hotel": true,
+    "channel_id": 2,
+    "price_date": "error: Field 'null' not found",
+    "is_recommended": false,
+    "hotel_location": "105 Boyd Street",
+    "hotel_location_id": 15259,
+    "latitude": 10.267698,
+    "longitude": 123.942247,
+    "concept_name": "augue a",
+    "concep_type_id": 35,
+    "price_group_id": 5,
+    "minimum_accepted_age": "error: Field 'null' not found",
+    "is_villa": true,
+    "hotel_campaigns": "error: no implicit conversion of Range into Integer",
+    "hotel_valid_campaigns": "error: Field 'null' not found",
+    "sale_campaigns": "error: Field 'null' not found",
+    "insurances": "error: Field 'null' not found",
+    "product_activities": [
+
+    ],
+    "has_eb_insurance": false,
+    "teg_soft_campaign_id": "error: Field 'null' not found"
+  }
+}]
