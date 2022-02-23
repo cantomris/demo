@@ -1,75 +1,456 @@
 {
-  "hotel_list_cache_models": [
-    {
-      "id": 1849,
-      "priority": 17,
-      "is_single_bay": true,
-      "category_slider_path": "http://dummyimage.com/146x161.png/dddddd/000000",
-      "not_discounted_price": "",
-      "hotel_category_ids": [
-        105,
-        32
-      ],
-      "hotel_property_prominents": [
-        {
-          "hotel_id": 2110,
-          "icon": "http://dummyimage.com/159x185.png/dddddd/000000"
+    "status": {
+      "success": false,
+      "request_id": "08c85a8c-cf14-419f-9740-a3b842c84ba4",
+      "messages": {
+        "id": "66",
+        "code": "opaLrsnNEKoZRNC7hadMuqYN1GEXiMJGcJonrtpMLiHxmJXk1k5",
+        "message": "cursus urna ut",
+        "message_type": 1
+      }
+    },
+    "data": {
+      "results": {
+        "tab_id": 1,
+        "list_view": {
+          "list_count": 1,
+          "page_count": 1,
+          "active_page": 1,
+          "total_hotel_count": 1
         },
-        {
-          "hotel_id": 2110,
-          "icon": "http://dummyimage.com/215x194.png/5fa2dd/ffffff"
+        "price": {
+          "min": 0,
+          "max": 0
         },
-        {
-          "hotel_id": 2110,
-          "icon": "http://dummyimage.com/222x225.png/ff4444/ffffff"
-        }
-      ],
-      "description": "ultrices posuere",
-      "css_class_name": "et",
-      "description_detail": null,
-      "hotel_property_prominent_id": 123,
-      "hotel_open_date": "error: Field 'null' not found",
-      "hotel_close_date": "error: Field 'null' not found",
-      "is_hotel_open_in_year": true,
-      "hotel_open_text": "12 Ay Acik",
-      "child_info": "Ücretsiz çocuk yaşları dönemsel değişkenlik gösterebilmektedir.",
-      "child_age1_min": 0,
-      "child_age1_max": 6,
-      "child_age2_min": 0,
-      "child_age2_max": 6,
-      "discount_rate": 0.0,
-      "price_in_tl": 0.0,
-      "is_contract": false,
-      "hotel_id": 2110,
-      "product_id": 7307,
-      "name": "vestibulum aliquet ultrices",
-      "link": "china.com.cn/diam/erat/fermentum/justo/nec/condimentum/neque.jsp",
-      "image_url": "http://dummyimage.com/110x221.png/cc0000/ffffff",
-      "alt": "in",
-      "title": "erat eros",
-      "marketing_id": 1,
-      "is_adult_hotel": false,
-      "channel_id": 2,
-      "price_date": "error: Field 'null' not found",
-      "is_recommended": true,
-      "hotel_location": "5 Browning Point",
-      "hotel_location_id": 11630,
-      "latitude": -7.6185371,
-      "longitude": 110.6013327,
-      "concept_name": "diam id",
-      "concep_type_id": 39,
-      "price_group_id": 9,
-      "minimum_accepted_age": "error: Field 'null' not found",
-      "is_villa": true,
-      "hotel_campaigns": "error: no implicit conversion of Range into Integer",
-      "hotel_valid_campaigns": "error: Field 'null' not found",
-      "sale_campaigns": "error: Field 'null' not found",
-      "insurances": "error: Field 'null' not found",
-      "product_activities": [
-
-      ],
-      "has_eb_insurance": false,
-      "teg_soft_campaign_id": "error: Field 'null' not found"
+        "new_price": {
+          "min": 0,
+          "max": 0
+        },
+        "concept": [
+          {
+            "name": "vivamus vel nulla eget",
+            "status": false,
+            "id": "274",
+            "hotel_count": 302
+          }
+        ],
+        "categories": [
+          {
+            "hotel_name": "luctus rutrum",
+            "select": false,
+            "id": "0",
+            "children": null
+          },
+          {
+            "hotel_name": "at lorem",
+            "select": false,
+            "id": "9",
+            "children": null
+          },
+          {
+            "hotel_name": "elementum nullam",
+            "select": false,
+            "id": "3206",
+            "children": null
+          }
+        ],
+        "discount_keys": [
+          {
+            "id": 225,
+            "name": "quis turpis",
+            "status": false
+          },
+          {
+            "id": 24,
+            "name": "platea dictumst",
+            "status": false
+          }
+        ],
+        "lokasyon": [
+          {
+            "yer_ad": "pretium",
+            "hotel_count": 21,
+            "select": false,
+            "key": "vel",
+            "id": "pellentesque",
+            "tur": true,
+            "children": [
+              {
+                "yer_ad": "semper interdum",
+                "hotel_count": 15,
+                "select": true,
+                "key": "85771",
+                "id": "30515",
+                "tur": true,
+                "children": null
+              },
+              {
+                "yer_ad": "fusce",
+                "hotel_count": 9,
+                "select": false,
+                "key": "21",
+                "id": "1202",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "mauris",
+            "hotel_count": 9,
+            "select": false,
+            "key": "natoque",
+            "id": "vel",
+            "tur": false,
+            "children": [
+              {
+                "yer_ad": "at lorem",
+                "hotel_count": 5,
+                "select": false,
+                "key": "75733",
+                "id": "657",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "eleifend",
+                "hotel_count": 5,
+                "select": true,
+                "key": "65438",
+                "id": "5214",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "quis lectus",
+                "hotel_count": 9,
+                "select": false,
+                "key": "947",
+                "id": "493",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "ultrices",
+            "hotel_count": 17,
+            "select": false,
+            "key": "nulla",
+            "id": "sapien",
+            "tur": false,
+            "children": [
+              {
+                "yer_ad": "luctus et",
+                "hotel_count": 17,
+                "select": false,
+                "key": "6529",
+                "id": "8",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "in",
+            "hotel_count": 25,
+            "select": false,
+            "key": "duis",
+            "id": "ac",
+            "tur": false,
+            "children": [
+              {
+                "yer_ad": "nunc commodo",
+                "hotel_count": 8,
+                "select": false,
+                "key": "4919",
+                "id": "574",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "venenatis tristique",
+                "hotel_count": 4,
+                "select": false,
+                "key": "9526",
+                "id": "314",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "morbi",
+            "hotel_count": 16,
+            "select": true,
+            "key": "suspendisse",
+            "id": "amet",
+            "tur": true,
+            "children": [
+              {
+                "yer_ad": "nunc donec",
+                "hotel_count": 4,
+                "select": true,
+                "key": "43343",
+                "id": "93216",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "in felis",
+                "hotel_count": 19,
+                "select": true,
+                "key": "0310",
+                "id": "9520",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "odio",
+                "hotel_count": 14,
+                "select": false,
+                "key": "68",
+                "id": "33",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "vestibulum ante",
+                "hotel_count": 16,
+                "select": false,
+                "key": "58156",
+                "id": "3",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "lacinia",
+            "hotel_count": 32,
+            "select": true,
+            "key": "convallis",
+            "id": "velit",
+            "tur": false,
+            "children": [
+              {
+                "yer_ad": "ut nulla",
+                "hotel_count": 12,
+                "select": true,
+                "key": "83978",
+                "id": "351",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "malesuada",
+            "hotel_count": 21,
+            "select": true,
+            "key": "vitae",
+            "id": "ut",
+            "tur": true,
+            "children": [
+              {
+                "yer_ad": "aenean",
+                "hotel_count": 16,
+                "select": false,
+                "key": "0",
+                "id": "7",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "eu mi",
+                "hotel_count": 17,
+                "select": false,
+                "key": "952",
+                "id": "42785",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "semper",
+                "hotel_count": 4,
+                "select": true,
+                "key": "7547",
+                "id": "73",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "hac",
+            "hotel_count": 22,
+            "select": true,
+            "key": "ante",
+            "id": "velit",
+            "tur": false,
+            "children": [
+              {
+                "yer_ad": "at diam",
+                "hotel_count": 18,
+                "select": false,
+                "key": "791",
+                "id": "14076",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "in lectus",
+                "hotel_count": 6,
+                "select": true,
+                "key": "268",
+                "id": "070",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "sed",
+                "hotel_count": 6,
+                "select": true,
+                "key": "588",
+                "id": "19",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "vestibulum sit",
+                "hotel_count": 12,
+                "select": true,
+                "key": "95",
+                "id": "365",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "nisl duis",
+                "hotel_count": 3,
+                "select": true,
+                "key": "9061",
+                "id": "944",
+                "tur": null,
+                "children": null
+              }
+            ]
+          },
+          {
+            "yer_ad": "sapien",
+            "hotel_count": 2,
+            "select": false,
+            "key": "volutpat",
+            "id": "massa",
+            "tur": false,
+            "children": [
+              {
+                "yer_ad": "maecenas",
+                "hotel_count": 19,
+                "select": true,
+                "key": "2430",
+                "id": "441",
+                "tur": null,
+                "children": null
+              },
+              {
+                "yer_ad": "tortor duis",
+                "hotel_count": 14,
+                "select": false,
+                "key": "4",
+                "id": "4",
+                "tur": false,
+                "children": null
+              }
+            ]
+          }
+        ],
+        "error_mesaj": null,
+        "create_date": "1/24/2022",
+        "prominent_filter": [
+          {
+            "id": 110,
+            "icon": "http://dummyimage.com/168x172.png/ff4444/ffffff",
+            "desciption": "morbi ut odio cras mi pede malesuada in imperdiet",
+            "desciption_detail": null,
+            "css_class_name": null,
+            "is_selected": false
+          }
+        ],
+        "hotel_search_result": null,
+        "hotel_list_cache_models": [
+            {
+              "id": 1849,
+              "priority": 17,
+              "is_single_bay": true,
+              "category_slider_path": "http://dummyimage.com/146x161.png/dddddd/000000",
+              "not_discounted_price": "",
+              "hotel_category_ids": [
+                105,
+                32
+              ],
+              "hotel_property_prominents": [
+                {
+                  "hotel_id": 2110,
+                  "icon": "http://dummyimage.com/159x185.png/dddddd/000000"
+                },
+                {
+                  "hotel_id": 2110,
+                  "icon": "http://dummyimage.com/215x194.png/5fa2dd/ffffff"
+                },
+                {
+                  "hotel_id": 2110,
+                  "icon": "http://dummyimage.com/222x225.png/ff4444/ffffff"
+                }
+              ],
+              "description": "ultrices posuere",
+              "css_class_name": "et",
+              "description_detail": null,
+              "hotel_property_prominent_id": 123,
+              "hotel_open_date": "error: Field 'null' not found",
+              "hotel_close_date": "error: Field 'null' not found",
+              "is_hotel_open_in_year": true,
+              "hotel_open_text": "12 Ay Acik",
+              "child_info": "Ücretsiz çocuk yaşları dönemsel değişkenlik gösterebilmektedir.",
+              "child_age1_min": 0,
+              "child_age1_max": 6,
+              "child_age2_min": 0,
+              "child_age2_max": 6,
+              "discount_rate": 0.0,
+              "price_in_tl": 0.0,
+              "is_contract": false,
+              "hotel_id": 2110,
+              "product_id": 7307,
+              "name": "vestibulum aliquet ultrices",
+              "link": "china.com.cn/diam/erat/fermentum/justo/nec/condimentum/neque.jsp",
+              "image_url": "http://dummyimage.com/110x221.png/cc0000/ffffff",
+              "alt": "in",
+              "title": "erat eros",
+              "marketing_id": 1,
+              "is_adult_hotel": false,
+              "channel_id": 2,
+              "price_date": "error: Field 'null' not found",
+              "is_recommended": true,
+              "hotel_location": "5 Browning Point",
+              "hotel_location_id": 11630,
+              "latitude": -7.6185371,
+              "longitude": 110.6013327,
+              "concept_name": "diam id",
+              "concep_type_id": 39,
+              "price_group_id": 9,
+              "minimum_accepted_age": "error: Field 'null' not found",
+              "is_villa": true,
+              "hotel_campaigns": "error: no implicit conversion of Range into Integer",
+              "hotel_valid_campaigns": "error: Field 'null' not found",
+              "sale_campaigns": "error: Field 'null' not found",
+              "insurances": "error: Field 'null' not found",
+              "product_activities": [
+        
+              ],
+              "has_eb_insurance": false,
+              "teg_soft_campaign_id": "error: Field 'null' not found"
+            }
+          ]
+      }
     }
-  ]
-}
+  }
